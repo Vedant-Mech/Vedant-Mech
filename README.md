@@ -1,4 +1,4 @@
-## Hi, I’m Vedant 👋
+## Hi, I’m Vedant
 
 Mechatronics student from India exploring design, manufacturing, robotics, and intelligent software systems.
 
