@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I’m Vedant 👋
 
-<!--
-**Vedant-Mech/Vedant-Mech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics student from India exploring design, manufacturing, robotics, and intelligent software systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Tech
+
+**Design & CAD**
+- SolidWorks.
+- Fusion 360.
+- AutoCAD.
+
+**Hardware & Platforms**
+- Arduino.
+- ESP32.
+- Sensors & actuators.
+
+### Current Focus
+- Building small but complete hardware projects.
